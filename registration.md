@@ -4,3 +4,4 @@ for registration
 - password
 - email
 - mobile number
+- location
