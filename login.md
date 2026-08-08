@@ -2,3 +2,4 @@
 
 - Username
 - Password
+- Forgot Password
